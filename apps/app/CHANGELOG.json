@@ -2,6 +2,41 @@
   "name": "app",
   "entries": [
     {
+      "date": "Sat, 09 Jul 2022 17:53:06 GMT",
+      "tag": "app_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "c7480cf337a3cfd34eb841bcfcb6fabb53963bb3",
+            "comment": "test: version bump using beachball"
+          },
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "05d1f06e1ac8cc15e6f7f0fcf9b788775d878c7b",
+            "comment": "update: version display on homepage"
+          }
+        ],
+        "patch": [
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "not available",
+            "comment": "add: version expose in preload script"
+          },
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "not available",
+            "comment": "add: beachball config to apps/app"
+          }
+        ]
+      }
+    },
+    {
       "date": "Sat, 09 Jul 2022 17:41:27 GMT",
       "tag": "app_v1.0.0",
       "version": "1.0.0",

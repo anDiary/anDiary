@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "update: version display on homepage",
-  "packageName": "app",
-  "email": "naffydharni006@gmail.com",
-  "dependentChangeType": "patch"
-}

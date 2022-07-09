@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "test: version bump using beachball",
-  "packageName": "app",
-  "email": "naffydharni006@gmail.com",
-  "dependentChangeType": "patch"
-}
