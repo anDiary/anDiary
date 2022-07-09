@@ -1,9 +1,6 @@
 {
-  "type": "prerelease",
-  "comment": {
-    "title": "",
-    "value": ""
-  },
+  "type": "patch",
+  "comment": "add: version expose in preload script",
   "packageName": "app",
   "email": "naffydharni006@gmail.com",
   "dependentChangeType": "patch"
