@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "entries": [
+    {
+      "date": "Sat, 09 Jul 2022 17:41:27 GMT",
+      "tag": "app_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "99ba5c9857ef6bdce4b9ec9f086df63cf58f3a6f",
+            "comment": "add: beachball config to apps/app"
+          },
+          {
+            "author": "naffydharni006@gmail.com",
+            "package": "app",
+            "commit": "3c5fc44ace58c09cfc730e0140ddb7166ee1905d",
+            "comment": "add: version expose in preload script"
+          }
+        ]
+      }
+    }
+  ]
+}
