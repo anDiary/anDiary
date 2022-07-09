@@ -12,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "19.0.8"
+  },
+  "beachball": {
+    "publish": false,
+    "branch": "origin/main"
   }
 }
