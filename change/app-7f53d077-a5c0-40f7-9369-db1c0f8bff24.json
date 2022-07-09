@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "add: beachball config to apps/app",
+  "packageName": "app",
+  "email": "naffydharni006@gmail.com",
+  "dependentChangeType": "patch"
+}
