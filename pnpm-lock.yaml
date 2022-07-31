@@ -14,9 +14,9 @@ importers:
 
   apps/app:
     specifiers:
-      electron: 19.0.9
+      electron: 19.0.10
     devDependencies:
-      electron: 19.0.9
+      electron: 19.0.10
 
   apps/web:
     specifiers:
@@ -3158,8 +3158,8 @@ packages:
     resolution: {integrity: sha512-h+Fadt1gIaQ06JaIiyqPsBjJ08fV5Q7md+V8bUvQW/9OvXfL2LRICTz2EcnnCP7QzrFTS6/27MRV6Bl9Yn97zA==}
     dev: true
 
-  /electron/19.0.9:
-    resolution: {integrity: sha512-ooEwrv8Y7NSzdhKcl6kPCYecnzcg5nFWuS5ryG+VFH3MMBR8zXh9nW2wLsZrBz6OGUxXrcc5BKBC7dA8C6RhGQ==}
+  /electron/19.0.10:
+    resolution: {integrity: sha512-EiWtPWdD7CzkRkp1cw7t0N9W2qhI5XZOudHX7daOh5wI076nsdV2dtlAf/XyTHhPNoKR5qhTWrSnYL9PY6D1vg==}
     engines: {node: '>= 8.6'}
     hasBin: true
     requiresBuild: true
