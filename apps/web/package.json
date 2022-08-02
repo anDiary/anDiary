@@ -12,7 +12,7 @@
 	"devDependencies": {
 		"@types/node": "17.0.45",
 		"@types/react": "18.0.15",
-		"autoprefixer": "10.4.7",
+		"autoprefixer": "10.4.8",
 		"daisyui": "^2.20.0",
 		"eslint": "8.21.0",
 		"eslint-config-custom": "workspace:*",
